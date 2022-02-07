@@ -1,0 +1,23 @@
+.text-red { 
+    color: #8B0000
+}
+
+.fs {
+    font-size: 24px;
+}
+h1,h2,h3,h4,h5,h6 {
+    color: #DC143C;
+}
+
+li {
+    color: #D2691E;
+}
+
+article {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+ul > li {
+    list-style-position: inside
+}
